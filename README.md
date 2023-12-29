@@ -4,7 +4,6 @@
 
 * 🧠 I’m interested in Game Programming (Unity or C++)
 * 📫 You can contact me at **Kazimsaglamdev@gmail.com**
-<br/>
 
 ### 🔧 My Skills
 
