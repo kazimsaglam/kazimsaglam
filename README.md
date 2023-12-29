@@ -16,7 +16,7 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" height="40px" width="40px" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" />][itchio]
   
 [linkedin]: https://www.linkedin.com/in/kazimsaglam/
@@ -24,6 +24,9 @@
 
 <br/>
 <br/>
+
+
+
 
 
 
