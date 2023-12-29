@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kazim Sağlam</h1>
 
+## 🕹️ Game Developer
+
 * 🧠 I’m interested in Game Programming (Unity or C++)
-- 📫 You can contact me at **Kazimsaglamdev@gmail.com**
+* 📫 You can contact me at **Kazimsaglamdev@gmail.com**
 <br/>
 
 ### 🔧 My Skills
