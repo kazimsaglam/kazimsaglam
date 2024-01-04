@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif)" width="500" height="320" />
+
 <h1 align="center">Hi 👋, I'm Kazim Sağlam</h1>
 
 ## 🕹️ Game Developer
