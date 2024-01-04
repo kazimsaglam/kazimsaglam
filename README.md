@@ -1,11 +1,10 @@
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="500" height="320" />
+# 𝘏𝘦𝘭𝘭𝘰, 𝘐'𝘮 𝘒𝘢𝘻𝘪𝘮 𝘚𝘢ğ𝘭𝘢𝘮
 
-<h1 align="center">Hi 👋, I'm Kazim Sağlam</h1>
+I ❤️ Game Development!
 
-## 🕹️ Game Developer
-
-* 🧠 I’m interested in Game Programming (Unity or C++)
-* 📫 You can contact me at **Kazimsaglamdev@gmail.com**
+:computer: I’m interested in Game Programming (Unity or C++)
+ 
+📫 You can contact me at **Kazimsaglamdev@gmail.com**
 
 ### 🔧 My Skills
 
