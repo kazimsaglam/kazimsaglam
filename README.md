@@ -23,7 +23,7 @@ I ❤️ Game Development!
 [<img align="left" height="40px" width="40px" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" />][itchio]
   
 [linkedin]: https://www.linkedin.com/in/kazimsaglam/
-[itchio]: [https://kaziminator.itch.io/]
+[itchio]: https://kaziminator.itch.io/
 
 <br/>
 <br/>
