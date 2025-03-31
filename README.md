@@ -1,7 +1,5 @@
 <h1 align="center">𝘏𝘦𝘭𝘭𝘰, 𝘐'𝘮 𝘒𝘢𝘻𝘪𝘮 𝘚𝘢ğ𝘭𝘢𝘮</h1>
 <h3 align="center">I ❤️ Game Development!. Everyday I'm trying to improve myself and I want to share my works to here.</h3>
-
-:computer: I’m interested in Game Programming (Unity or C++)
  
 - 🌱 I’m currently learning ▶▶ **UNITY,BLENDER, C#**
 
