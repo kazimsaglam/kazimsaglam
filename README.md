@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm <i>Kazim</i></h1>
+<h1 align="center">👋 Hi, I'm <i>Kazim</i></h1>
 <h3 align="center">🎮 I ❤️ Game Development — Every day I level up a bit more. Let me show you what I’ve been working on!</h3>
  
 - 🔭 I'm currently focused on **Unity**, **Blender**, and **C#**
