@@ -7,7 +7,7 @@
   
 - 🌍 Languages: English (Intermediate)
 
-- 🌐 My Portfolio: [kazimsaglamdev.com](https://www.kazimsaglam.dev)
+- 🌐 My Portfolio: https://kazimsaglam.dev/
  
 - 📬 Reach me: **kazimsaglamdev@gmail.com**
 
