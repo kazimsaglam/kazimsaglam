@@ -4,8 +4,6 @@
 - 🔭 I'm currently focused on **Unity**, **Blender**, and **C#**
 
 - 📚 Learning: Unity (Intermediate), C# (Intermediate)
-  
-- 🌍 Languages: English (Intermediate)
  
 - 📬 Reach me: **kazimsaglamdev@gmail.com**
 
