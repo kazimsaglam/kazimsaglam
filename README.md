@@ -6,8 +6,6 @@
 - 📚 Learning: Unity (Intermediate), C# (Intermediate)
   
 - 🌍 Languages: English (Intermediate)
-
-- 🌐 My Portfolio: https://kazimsaglam.dev/
  
 - 📬 Reach me: **kazimsaglamdev@gmail.com**
 
@@ -23,7 +21,6 @@
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/kazimsaglam/" target="_blank" title="LinkedIn"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40" width="40" /></a> 
- <a href="https://kazimsaglam.dev/" target="_blank" title="My Site"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" width="40" /></a> 
 </p>
 
 <picture>
